@@ -1,6 +1,7 @@
 package lesson17;
 //copy with files
 //copy with byte
+// copy with Guava
 import java.io.IOException;
 
 public class Main {
@@ -42,5 +43,18 @@ public class Main {
         }
         long endTime2 = System.currentTimeMillis();
         System.out.println("CopyWithGuava  - " + (endTime2 - starTime2));
+
+        System.out.println("------------------------------------------------------------");
+
+        CopyWithApache withApache = new CopyWithApache();
+        long starTime3 = System.currentTimeMillis();
+        try {
+            withApache.copy("/Users/dimaskobsow1508gmail.com/Downloads/365days.mp4", "/Users/dimaskobsow1508gmail.com/Movies/365days1.mp4");
+
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        long endTime3 = System.currentTimeMillis();
+        System.out.println("CopyWithApache  - " + (endTime3 - starTime3));
     }
 }
