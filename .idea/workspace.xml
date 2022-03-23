@@ -4,8 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4080348-5092-4f4b-abeb-a6becf8ee081" name="Changes" comment="comment Java">
+    <list default="true" id="8b71cde9-0d0e-4721-9377-ccf7e75e7dd5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/lesson18/GetChannel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson18/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson18/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson18/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson18/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson18/Main4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson18/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Changes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Changes/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Changes1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Changes1/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson17/CopyWithApache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson17/CopyWithApache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1/untitled1.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,10 +31,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
-        <option value="Record" />
-        <option value="JUnit5 Test Class" />
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -26,68 +38,28 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitSEFilterConfiguration">
-    <file-type-list>
-      <filtered-out-file-type name="LOCAL_BRANCH" />
-      <filtered-out-file-type name="REMOTE_BRANCH" />
-      <filtered-out-file-type name="TAG" />
-      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
-    </file-type-list>
-  </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProjectId" id="22Q5qy0C9gOOCNfUGVhK6OjOTYa" />
+  <component name="ProjectId" id="26n4hBKwNLBgiwLhCjjCYIZx1M6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="Lesson7.Lesson7.Lesson7" />
-      <recent name="lesson11" />
-      <recent name="lesson8" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\sadmin\IdeaProjects\untitled\src\lesson12" />
-      <recent name="C:\Users\sadmin\IdeaProjects\untitled\src\Lesson10\Lesson10PracticaInterface" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="ExtractSuperBase.RECENT_KEYS">
-      <recent name="lesson13.lesson13HomeWork" />
-    </key>
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="lesson12" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.Testing (1)">
-    <configuration name="DublicatWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson14HashMap.HomeWork.DublicatWord" />
-      <module name="untitled" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="GetChannel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson18.GetChannel" />
+      <module name="JavaCourses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson14HashMap.HomeWork.*" />
+          <option name="PATTERN" value="lesson18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashMapExe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson14HashMap.HashMapExe" />
-      <module name="untitled" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson17.Main" />
+      <module name="JavaCourses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson14HashMap.*" />
+          <option name="PATTERN" value="lesson17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Play" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testJAva.Play" />
-      <module name="untitled" />
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson18.Main2" />
+      <module name="JavaCourses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testJAva.*" />
+          <option name="PATTERN" value="lesson18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,14 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Testing (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="16" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="testJAva.Testing" />
-      <module name="untitled" />
+    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson18.Main3" />
+      <module name="JavaCourses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testJAva.*" />
+          <option name="PATTERN" value="lesson18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Testing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testJAva.Testing" />
-      <module name="untitled" />
+    <configuration name="Main4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson18.Main4" />
+      <module name="JavaCourses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testJAva.*" />
+          <option name="PATTERN" value="lesson18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,52 +121,23 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Testing (1)" />
-        <item itemvalue="Application.Play" />
-        <item itemvalue="Application.Testing" />
-        <item itemvalue="Application.DublicatWord" />
-        <item itemvalue="Application.HashMapExe" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.GetChannel" />
+        <item itemvalue="Application.Main4" />
+        <item itemvalue="Application.Main3" />
+        <item itemvalue="Application.Main2" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b4080348-5092-4f4b-abeb-a6becf8ee081" name="Changes" comment="" />
-      <created>1639757168442</created>
+      <changelist id="8b71cde9-0d0e-4721-9377-ccf7e75e7dd5" name="Changes" comment="" />
+      <created>1648046133788</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1639757168442</updated>
+      <updated>1648046133788</updated>
     </task>
-    <task id="LOCAL-00001" summary="comment Java">
-      <created>1647351258773</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1647351258773</updated>
-    </task>
-    <task id="LOCAL-00002" summary="comment Java">
-      <created>1647898546264</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1647898546265</updated>
-    </task>
-    <task id="LOCAL-00003" summary="comment Java">
-      <created>1647898579825</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1647898579826</updated>
-    </task>
-    <task id="LOCAL-00004" summary="comment Java">
-      <created>1647976837006</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1647976837007</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -209,19 +150,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="comment Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="comment Java" />
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/untitled$Base_Tests.ic" NAME="Base_Tests Coverage Results" MODIFIED="1644935471413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>lesson12.Less0n12.*</FILTER>
-    </SUITE>
   </component>
 </project>
