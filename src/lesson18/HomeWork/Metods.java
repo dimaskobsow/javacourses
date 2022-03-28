@@ -26,6 +26,9 @@ public class Metods implements StringUtils {
         return 0;
     }
 
+
+
+
     @Override
     public int[] findWord(String text, String word) throws NullPointerException {
 
@@ -46,6 +49,7 @@ public class Metods implements StringUtils {
         }
         return null;
 
+
     }
 
     @Override
@@ -56,7 +60,7 @@ public class Metods implements StringUtils {
             }
             Matcher m = Pattern.compile("(?!=\\d\\.\\d\\.)([\\d.]+)").matcher(text);
             while (m.find()) {
-                double d = Double.parseDouble(m.group(1));
+                double d = Double.parseDouble(m.group());
                 System.out.println(d);
             }
         } catch (Exception c) {
